@@ -16,8 +16,8 @@
 
 ## Progetti
 
-* [Hello World](hello.py) - Semplice programma per stampare 'Hello World!'
-* [Lezione 2](lezione2.py) - Funzione per sommare gli elementi di una lista
+* [Hello World](scripts/hello.py) - Semplice programma per stampare 'Hello World!'
+* [Lezione 2](scripts/lezione2.py) - Funzione per sommare gli elementi di una lista
 
 ## Contatti
 
