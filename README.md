@@ -18,6 +18,7 @@
 
 * [Hello World](scripts/hello.py) - Semplice programma per stampare 'Hello World!'
 * [Lezione 2](scripts/lezione2.py) - Funzione per sommare gli elementi di una lista
+* [Lezione 3](scripts/lezione3.py) - Funzione per sommare gli elementi di un file csv
 
 ## Contatti
 
