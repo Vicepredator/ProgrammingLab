@@ -16,7 +16,7 @@
 
 ## Progetti
 
-###Lezioni
+### Lezioni
 
 * [Hello World](scripts/lessons/hello.py) - Semplice programma per stampare 'Hello World!'
 * [Lezione 2](scripts/lessons/lezione2.py) - Funzione per sommare gli elementi di una lista
@@ -25,7 +25,7 @@
 * [Lezione 5](scripts/lessons/lezione5.py) - Gestione eccezioni e classe Num
 NericalCSVFile che converte automaticamente i dati del file CSV a float
 
-###Esercizi
+### Esercizi
 
 Folgio 1
 
