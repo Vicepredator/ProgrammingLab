@@ -16,11 +16,20 @@
 
 ## Progetti
 
-* [Hello World](scripts/hello.py) - Semplice programma per stampare 'Hello World!'
-* [Lezione 2](scripts/lezione2.py) - Funzione per sommare gli elementi di una lista
-* [Lezione 3](scripts/lezione3.py) - Funzione per sommare gli elementi di un file CSV
-* [Lezione 4](scripts/lezione4.py) - Classe CSVFile per la gestione di un file CSV
-* [Lezione 5](scripts/lezione5.py) - Gestione eccezioni e classe NumericalCSVFile che converte automaticamente i dati del file CSV a float
+###Lezioni
+
+* [Hello World](scripts/lessons/hello.py) - Semplice programma per stampare 'Hello World!'
+* [Lezione 2](scripts/lessons/lezione2.py) - Funzione per sommare gli elementi di una lista
+* [Lezione 3](scripts/lessons/lezione3.py) - Funzione per sommare gli elementi di un file CSV
+* [Lezione 4](scripts/lessons/lezione4.py) - Classe CSVFile per la gestione di un file CSV
+* [Lezione 5](scripts/lessons/lezione5.py) - Gestione eccezioni e classe Num
+NericalCSVFile che converte automaticamente i dati del file CSV a float
+
+###Esercizi
+
+Folgio 1
+
+* [Esercizio 1](scripts/excercises/esercizio1.py) - Un primo approccio a Python
 
 ## Contatti
 

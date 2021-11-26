@@ -1,7 +1,7 @@
 # Programma per sommare i valori delle vendite di shampoo salvare nel file shampoo_sales.csv
 
 # Apro il file
-shampoo_sales = open('files/shampoo_sales.csv', 'r')
+shampoo_sales = open('../files/shampoo_sales.csv', 'r')
 
 #Inizializzo la variabile somma
 somma = 0

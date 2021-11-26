@@ -31,5 +31,5 @@ class CSVFile():
 		return data
 
 # Istanzio un oggetto della classe CSVFile
-my_csv_file = CSVFile('files/shampoo_sales.csv')
+my_csv_file = CSVFile('../files/shampoo_sales.csv')
 print(my_csv_file.get_data())
