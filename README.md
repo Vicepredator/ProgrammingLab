@@ -11,12 +11,13 @@
 
 <p align="center">
   <a href="#progetti">Progetti</a> •
+  <a href="#lezioni">Lezioni</a> •
+  <a href="#esercizi">Esercizi</a> •
+  <a href="#todo">TODO</a> •
   <a href="#contatti">Contatti</a>
 </p>
 
-## Progetti
-
-### Lezioni
+## Lezioni
 
 * [Hello World](scripts/lessons/hello.py) - Semplice programma per stampare 'Hello World!'
 * [Lezione 2](scripts/lessons/lezione2.py) - Funzione per sommare gli elementi di una lista
@@ -25,11 +26,36 @@
 * [Lezione 5](scripts/lessons/lezione5.py) - Gestione eccezioni e classe Num
 NericalCSVFile che converte automaticamente i dati del file CSV a float
 
-### Esercizi
+## Esercizi
 
-Folgio 1
+### [Foglio di esercizi 1](https://sarusso.github.io/ProgrammingLab/foglio1_esercizi.pdf)
 
-* [Esercizio 1](scripts/excercises/esercizio1.py) - Un primo approccio a Python
+#### 1 - Un primo approccio a Python
+
+* [Esercizio 1](scripts/excercises/esercizio1.py)
+
+## TODO
+
+- [ ] Foglio di esercizi 1
+  - [ ] 2 - Manipolazione dati su file
+    - [ ] Esercizio 2
+    - [ ] Esercizio 3
+  - [ ] 3 - Classi e Oggetti
+    - [ ] Esercizio 4
+    - [ ] Esercizio 5
+    - [ ] Esercizio 6
+
+### DONE
+
+- [x] Lezione 1
+- [x] Lezione 2
+- [x] Lezione 3
+- [x] Lezione 4
+- [x] Lezione 5
+- [ ] Foglio di esercizi 1
+  - [x] 1 - Un primo approccio a Python
+    - [x] Esercizio 1
+
 
 ## Contatti
 
