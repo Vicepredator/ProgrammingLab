@@ -20,6 +20,7 @@
 * [Lezione 2](scripts/lezione2.py) - Funzione per sommare gli elementi di una lista
 * [Lezione 3](scripts/lezione3.py) - Funzione per sommare gli elementi di un file CSV
 * [Lezione 4](scripts/lezione4.py) - Classe CSVFile per la gestione di un file CSV
+* [Lezione 5](scripts/lezione5.py) - Gestione eccezioni e classe NumericalCSVFile che converte automaticamente i dati del file CSV a float
 
 ## Contatti
 

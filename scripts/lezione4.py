@@ -25,6 +25,8 @@ class CSVFile():
 			# Eseguo lo split della linea e la inserisco nella lista
 			data.append(line.split(','))
 		
+		my_file.close()
+
 		# Ritorno il risultato
 		return data
 
