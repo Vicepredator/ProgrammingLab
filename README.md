@@ -34,33 +34,15 @@ NericalCSVFile che converte automaticamente i dati del file CSV a float
 
 * [Esercizio 1](scripts/excercises/esercizio1.py)
 
-## TODO
+## Esami
 
-- [ ] Foglio di esercizi 1
-  - [ ] 2 - Manipolazione dati su file
-    - [ ] Esercizio 2
-    - [ ] Esercizio 3
-  - [ ] 3 - Classi e Oggetti
-    - [ ] Esercizio 4
-    - [ ] Esercizio 5
-    - [ ] Esercizio 6
-
-### DONE
-
-- [x] Lezione 1
-- [x] Lezione 2
-- [x] Lezione 3
-- [x] Lezione 4
-- [x] Lezione 5
-- [ ] Foglio di esercizi 1
-  - [x] 1 - Un primo approccio a Python
-    - [x] Esercizio 1
+* [Esame del 24/02/2022](exams/First-24_20_2022/esame.py)
 
 
 ## Contatti
 
 <p align="center">
-  <a href="https://www.instagram.com/gianluca_g.w.c/" target="_blank">
+  <a href="https://www.instagram.com/vicepredator/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="https://github.com/Vicepredator11" target="_blank">
